@@ -10,8 +10,26 @@ body {
 .tittle-super {
 	font-family: 'Roboto', sans-serif;
 	padding-top: 20px;
+	color:orange;
 }
+.feedback {
+	text-align: center;
+	font-size: 14px;
+	padding: 30px;
+	margin-top: 15px;
+
+
+}
+.coursive {
+	text-align: center;
+	font-style: italic;
+	}
+
 .text {
 	text-align: center;
-
+	font-size: 28px;
+	padding: 30px;
+}
+#block {
+	background-color:#FFFFE0;
 }
